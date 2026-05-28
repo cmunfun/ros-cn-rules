@@ -61,3 +61,8 @@ TestingCF jsDelivr：
 ```text
 https://testingcf.jsdelivr.net/gh/cmunfun/ros-cn-rules/CN.rsc
 ```
+
+## 另一种数据源（未使用）
+```text
+https://www.iwik.org/ipcountry/mikrotik/CN
+```
