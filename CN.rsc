@@ -1,6 +1,6 @@
-# Generated at: 2026-09-28 08:43:49 UTC
+# Generated at: 2026-10-05 09:09:10 UTC
 # Source: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list
-# Count: 6205
+# Count: 6206
 /ip firewall address-list
 add list=CN address=1.0.1.0/24 comment="CN MetaCubeX"
 add list=CN address=1.0.2.0/23 comment="CN MetaCubeX"
@@ -434,6 +434,7 @@ add list=CN address=43.241.16.0/21 comment="CN MetaCubeX"
 add list=CN address=43.241.48.0/22 comment="CN MetaCubeX"
 add list=CN address=43.241.76.0/22 comment="CN MetaCubeX"
 add list=CN address=43.241.80.0/20 comment="CN MetaCubeX"
+add list=CN address=43.241.100.0/23 comment="CN MetaCubeX"
 add list=CN address=43.241.112.0/22 comment="CN MetaCubeX"
 add list=CN address=43.241.168.0/21 comment="CN MetaCubeX"
 add list=CN address=43.241.176.0/21 comment="CN MetaCubeX"
@@ -2324,7 +2325,6 @@ add list=CN address=103.169.62.0/23 comment="CN MetaCubeX"
 add list=CN address=103.169.108.0/23 comment="CN MetaCubeX"
 add list=CN address=103.169.162.0/23 comment="CN MetaCubeX"
 add list=CN address=103.169.202.0/23 comment="CN MetaCubeX"
-add list=CN address=103.169.216.0/24 comment="CN MetaCubeX"
 add list=CN address=103.170.4.0/23 comment="CN MetaCubeX"
 add list=CN address=103.170.134.0/23 comment="CN MetaCubeX"
 add list=CN address=103.170.212.0/23 comment="CN MetaCubeX"
@@ -4190,6 +4190,7 @@ add list=CN address=163.47.4.0/22 comment="CN MetaCubeX"
 add list=CN address=163.52.28.0/23 comment="CN MetaCubeX"
 add list=CN address=163.52.76.0/23 comment="CN MetaCubeX"
 add list=CN address=163.52.108.0/23 comment="CN MetaCubeX"
+add list=CN address=163.52.246.0/23 comment="CN MetaCubeX"
 add list=CN address=163.53.0.0/20 comment="CN MetaCubeX"
 add list=CN address=163.53.36.0/22 comment="CN MetaCubeX"
 add list=CN address=163.53.40.0/21 comment="CN MetaCubeX"
